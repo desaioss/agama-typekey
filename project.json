@@ -24,7 +24,8 @@
                 "1": "Lorem Ipsum",
                 "2": "Dolor Si Amet"
             }
-        }
+        },
+        "": {}
     },
     "name": "agama-typekey"
 }
